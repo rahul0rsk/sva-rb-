@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SVA Loan CRM rb",
+  "description": "A modern Customer Relationship Management (CRM) application designed for financial services professionals in India. It helps manage clients, their portfolios, interactions, and tasks, featuring an AI-powered client summary generator using the Gemini API.",
+  "requestFramePermissions": []
+}
